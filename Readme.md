@@ -6,11 +6,6 @@ The notebook covers data wrangling (cleaning & preprocessing) and exploratory da
 
 The goal is to identify the features most strongly associated with loan default and provide data-driven recommendations for lenders.
 
-📂 Repository Structure
-├── data_wrangling.ipynb   # Jupyter notebook with EDA
-├── README.md              # Project documentation
-└── data/                 
-
 🛠️ Tools & Libraries
 
 Python
